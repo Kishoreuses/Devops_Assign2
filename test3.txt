@@ -1,2 +1,2 @@
-hi this is test3.txt form feature2
+Hi this is test3.txt from feature3
 
